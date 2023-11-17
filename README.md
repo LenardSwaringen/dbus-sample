@@ -1,2 +1,1 @@
-# dbus sample
- dbus sample
+# dbus c++ sample
