@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<node>
+    <interface name="com.example.hello">
+        <method name="SayHello">
+            <arg name="greeting" direction="in" type="s"/>
+            <arg name="response" direction="out" type="s"/>
+        </method>
+    </interface>
+</node>
